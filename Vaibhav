@@ -1,0 +1,37 @@
+# Common Mistakes to Avoid When Pushing Code to a Public Repository
+
+1.Skipping Contribution Guidelines: 
+   - Always read the project's README and guidelines.
+
+2.Ignoring Code Style and Formatting
+   - Follow the specified coding style and use any provided linting tools.
+
+3.Not Updating Your Fork or Branch
+   - Pull the latest changes from the main branch before starting work.
+
+4.Using Poor Commit Messages
+   - Write clear, descriptive commit messages.
+
+5.Making Large or Unfocused Pull Requests
+   - Keep PRs small and focused on one issue or feature.
+
+6.Not Testing Your Code  
+   - Thoroughly test your code before pushing.
+
+7. Forgetting Sensitive Information
+   - Avoid committing sensitive data, such as API keys.
+
+8.Not Using Descriptive Branch Names
+   - Use descriptive names like `feature/feature-name` or `bugfix/issue-number`.
+
+9.Ignoring Review Feedback
+   - Address reviewer comments and be open to suggestions.
+
+10.Overlooking Documentation 
+   - Update any relevant documentation to reflect your changes.
+
+11.Pushing to the Main Branch
+   - Always create a new branch for your work.
+
+12.Not Linking Issues in PRs
+   - Reference related issues in your pull request description (e.g., "Fixes #123").
